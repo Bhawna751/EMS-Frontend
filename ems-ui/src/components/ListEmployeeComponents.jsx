@@ -23,7 +23,7 @@ const ListEmployeeComponents = () => {
     }
 
     function pageTitle(){
-
+        
     }
 
   return (
